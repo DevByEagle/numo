@@ -1,3 +1,0 @@
-exclude .git/*
-exclude ROADMAP.md
-exclude test_numo.py
