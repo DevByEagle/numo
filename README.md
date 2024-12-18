@@ -22,9 +22,3 @@ cd numo
 pip install .
 ```
 
-## 📢 Latest Updates
-
-**Version 1.0.0** (Dec 2024):
-
-
-[View the Full Changelog]()
