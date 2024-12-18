@@ -6,14 +6,6 @@
 
 ---
 
-## ⚡ **Why Choose Numo**
-
-| 🛠 Feature                 | ✅ Advantage                         |  
-|----------------------------|---------------------------------------|
-| 🌍 **Cross-Platform**      | Works on Windows, MacOS, and Linux   |
-
----
-
 ## 📦 **Installation**
 
 ### From PyPI (Recommended)
@@ -30,4 +22,11 @@ cd numo
 pip install .
 ```
 
+## 📢 Latest Updates
 
+Check out all the changes made in **Numo:**
+
+**Version 1.0.0** (Dec 2024):
+
+
+[View the Full Changelog]()
