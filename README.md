@@ -6,14 +6,28 @@
 
 ---
 
-## 📦 Installation
+## ⚡ **Why Choose Numo**
 
-You can easily install **numo** using pip:
+| 🛠 Feature                 | ✅ Advantage                         |  
+|----------------------------|---------------------------------------|
+| 🌍 **Cross-Platform**      | Works on Windows, MacOS, and Linux   |
+
+---
+
+## 📦 **Installation**
+
+### From PyPI (Recommended)
 
 ```bash
 pip install numo
 ```
-## 💬 Community & Support
 
-Need help or want to chat? Join our community on:
-- **Twitter:** [@DevByEagle](https://x.com/DevByEagle)
+### From Source
+
+```bash
+git clone https://github.com/DevByEagle/numo.git  
+cd numo  
+pip install .
+```
+
+
