@@ -6,6 +6,7 @@ def sqrt(x: Union[int, float]) -> float:
     """Returns the square root of x."""
     ...
 
+
 __all__ = [
     "absolute",
     "sqrt"
