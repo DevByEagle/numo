@@ -24,8 +24,6 @@ pip install .
 
 ## 📢 Latest Updates
 
-Check out all the changes made in **Numo:**
-
 **Version 1.0.0** (Dec 2024):
 
 
